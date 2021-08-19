@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908829511791",
+    "project_id": "library-9d504",
+    "storage_bucket": "library-9d504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908829511791:android:cf1d60d2b065f620ecbd9a",
+        "android_client_info": {
+          "package_name": "com.monu.library3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908829511791-h0npm3kfh7dtt1tj5uc39du1diknn830.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQOM8NK7KefDeadh42JPm0RRFtIdSZ8ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908829511791-h0npm3kfh7dtt1tj5uc39du1diknn830.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
